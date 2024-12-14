@@ -1,1 +1,3 @@
 # Markdown_to_HTML_Converter
+引数markdown、inputfile、outputfileを受け取ります。
+markdownは実行するコマンド、inputfileは.mdファイルへのパス、出力パスはプログラムを実行した後に作成される.htmlです。
